@@ -1,1 +1,1 @@
-<h1>Adding Open Source Map to leaflet</h1>
+<h1>Adding Open Source Map to Mobile application (Android)</h1>
